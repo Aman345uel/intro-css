@@ -1,0 +1,41 @@
+/* styles.css */
+
+div {
+  color: white;
+}
+
+.alert-text {
+  color: red;
+}
+
+#title {
+  background-color: red;
+}
+
+.read,
+.unread {
+  color: white;
+  background-color: black;
+}
+
+.read {
+  font-size: large;
+}
+
+.unread {
+  font-size: small;
+}
+
+.subsection.header {
+  color: red;
+}
+
+.subsection#preview {
+  color: blue;
+}
+
+/* styles.css */
+
+.ancestor .contents {
+  color:green
+}
